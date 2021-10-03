@@ -1,4 +1,4 @@
-# expected-age-of-animals
+# Average-lfiespan-of-animals-and-humans
 This project is about describing the average lifespan of some animals and humans, as well as comparing both species.
 
 This dataset is obtained through web scraping technology on this [site](https://www.futurelearn.com/info/courses/maths-linear-quadratic/0/steps/12167).
